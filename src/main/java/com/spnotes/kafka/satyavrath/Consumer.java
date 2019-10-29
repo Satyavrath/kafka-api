@@ -1,4 +1,4 @@
-package com.spnotes.kafka.simple;
+package com.spnotes.kafka.satyavrath;
 
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
@@ -11,7 +11,7 @@ import java.util.Properties;
 import java.util.Scanner;
 
 /**
- * Created by sunilpatil on 12/28/15.
+ * Created by Satyavrath Injamuri on 10/28/2019
  */
 public class Consumer {
     private static Scanner in;
